@@ -7,3 +7,7 @@ console.log(temp);
 
 var myarr = ["fren", "lst"];
 console.log(myarr.length);
+
+var age = 28;
+console.log(age++) // prints before increment
+console.log(++age) // increment before print
