@@ -3,6 +3,9 @@
 
 "Kirk " + "Chong"
 // String concat
+3 + "asdf"
+// Javascript does string concat when diff types
+
 
 !false
 // unary operation
