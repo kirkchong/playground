@@ -27,4 +27,7 @@ console.log(typeof v);
 v = [1, 2, 3]
 console.log(typeof v);
 
+v = 1
+console.log(typeof v);
+
 
