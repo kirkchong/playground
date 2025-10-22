@@ -1,4 +1,4 @@
-// Function is a first class value
+// Function is a first class value, can be passed around, assigned or returned
 
 // anonymous function expression
 var clickHandler = function () { }
